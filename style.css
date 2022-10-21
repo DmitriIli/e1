@@ -49,10 +49,6 @@ body {
     justify-content: flex-start;
 }
 
-#link {
-    align-items: flex-end;
-}
-
 .content {
     margin-left: 3px;
     flex-direction: row;
@@ -66,21 +62,10 @@ body {
     text-align: center;
 }
 
-#p1 {
-    display: flex;
-    flex-direction: row;
-    font: 1em sans-serif;
-    justify-content: center;
-    align-items: center;
-    font-size: 30px;
+.form {
+    text-align: center;
 }
 
-#t {
-    margin-left: 3mm;
-    vertical-align: top;
-    font-size: 25px;
-    align-self: flex-start;
-}
 
 .contacts {
     margin-left: 20mm;
